@@ -12163,7 +12163,7 @@ quechua={
 }
 
 guarani={
-	color= rgb{ 194 109 46 }
+	color=hsv{ 0.23 0.24 0.9 }
 	religion = animist
 	traits = { indigenous_american_heritage south_american_group }
 	male_common_first_names={
@@ -12450,7 +12450,7 @@ amazonian={
 }
 
 patagonian={
-	color=hsv{ 0.23 0.24 0.9 }
+	color= rgb{ 255 125 125 }
 	religion = animist
 	traits = { indigenous_american_heritage south_american_group }
 	male_common_first_names={
@@ -13637,7 +13637,7 @@ apache={
 	graphics = generic
 }
 oodham={
-	color= rgb{ 255 125 125 }
+	color= rgb{ 105 110 115 }
 	religion = animist
 	traits = { indigenous_american_heritage north_american_group }
 	male_common_first_names={
