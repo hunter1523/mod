@@ -4872,7 +4872,7 @@ romanian={
 }
 
 hungarian={
-	color= hsv{ 0.40 0.36 0.70 }
+	color= hsv{ 0.30 0.25 0.70 }
 	religion = catholic
 	traits = { hungarian_culture_group european_heritage }
 	male_common_first_names={
@@ -7481,7 +7481,7 @@ berber={ # Amazigh
 }
 
 persian={
-	color= rgb{ 105 65 45 }
+	color= rgb{ 95 65 45 }
 	religion = shiite
 	traits = { iranian_turanian_culture_group middle_eastern_heritage }
 	male_common_first_names={
@@ -8299,7 +8299,7 @@ yakut={
 }
 
 tibetan={
-	color= rgb{ 132 121 86 }
+	color= hsv{ 0.79 0.37 0.36 }
 	religion = gelugpa
 	
 	obsessions = {
@@ -8389,7 +8389,7 @@ assamese={
 }
 
 bengali={
-	color= hsv{ 0.79 0.37 0.36 }
+	color= rgb{ 110 70 50 }
 	religion = sunni
 	traits = { south_asian_heritage hindustani }
 	male_common_first_names={
@@ -8749,7 +8749,7 @@ kanauji={
 }
 
 panjabi={
-	color= hsv{ 0.08 0.10 0.74 }
+	color= rgb{ 125 100 85 }
 	religion = sikh
 	traits = { south_asian_heritage hindustani }
 	male_common_first_names={
@@ -9150,7 +9150,7 @@ malayalam={
 }
 
 tamil={
-	color= hsv{ 0.94 0.57 0.70 }
+	color= rgb{ 160 25 75 }
 	religion = hindu
 	traits = { south_asian_heritage dravidian }
 	male_common_first_names={
@@ -9196,7 +9196,7 @@ tamil={
 }
 
 telegu={
-	color= hsv{ 0.58 0.55 0.59 }
+	color= rgb{ 45 55 105 }
 	religion = hindu
 	traits = { south_asian_heritage dravidian }
 	male_common_first_names={
@@ -10340,7 +10340,7 @@ manchu={
 }
 
 han={
-	color= rgb{ 190 80 48 }
+	color= rgb{ 75 15 0 }
 	religion = mahayana
 	traits = { sinosphere han_chinese east_asian_heritage }
 	obsessions = {
@@ -11675,7 +11675,7 @@ tarascan={
 }
 
 quechua={
-	color= hsv{ 0.10 0.22 0.69 }
+	color= rgb{ 170 130 80 }
 	religion = catholic
 	traits = { indigenous_american_heritage south_american_group }
 	male_common_first_names={
@@ -11767,7 +11767,7 @@ quechua={
 }
 
 guarani={
-	color= rgb{ 194 109 46 }
+	color=hsv{ 0.23 0.24 0.9 }
 	religion = animist
 	traits = { indigenous_american_heritage south_american_group }
 	male_common_first_names={
@@ -11863,7 +11863,7 @@ guarani={
 }
 
 aimara={
-	color= hsv{ 0.02 0.57 0.74 }
+	color= rgb{ 190 45 25 }
 	religion = catholic
 	traits = { indigenous_american_heritage south_american_group }
 	male_common_first_names={
@@ -11961,7 +11961,7 @@ aimara={
 }
 
 amazonian={
-	color= hsv{ 0.77 0.22 0.50 }
+	color= rgb{ 110 220 115 }
 	religion = animist
 	traits = { indigenous_american_heritage south_american_group }
 	male_common_first_names={
@@ -12054,7 +12054,7 @@ amazonian={
 }
 
 patagonian={
-	color=hsv{ 0.23 0.24 0.9 }
+	color= rgb{ 255 125 125 }
 	religion = animist
 	traits = { indigenous_american_heritage south_american_group }
 	male_common_first_names={
@@ -13241,7 +13241,7 @@ apache={
 	graphics = generic
 }
 oodham={
-	color= rgb{ 255 125 125 }
+	color= rgb{ 105 110 115 }
 	religion = animist
 	traits = { indigenous_american_heritage north_american_group }
 	male_common_first_names={
@@ -14283,7 +14283,7 @@ caribeno={
 }
 
 north_andean={
-	color= hsv{ 0.20 0.35 0.41 }
+	color= rgb{ 105 110 85 }
 	religion = catholic
 	traits = { hispanophone european_heritage }
 	male_common_first_names={
@@ -14420,7 +14420,7 @@ north_andean={
 }
 
 south_andean={
-	color= hsv{ 0.45 0.15 0.61 }
+	color= rgb{ 100 145 120 }
 	religion = catholic
 	traits = { hispanophone european_heritage }
 	male_common_first_names={
@@ -14559,7 +14559,7 @@ south_andean={
 }
 
 platinean={
-	color=rgb{ 88 99 133 }
+	color=rgb{ 130 155 170 }
 	religion = catholic
 	traits = { hispanophone european_heritage }
 	male_common_first_names={
@@ -17868,7 +17868,7 @@ sidama={
 }
 
 somali={
-	color={ 0.97 0.7 0.78}
+	color= rgb{ 255 60 40 }
 	religion = sunni
 	traits = { arab_speaking east_african_culture_group african_heritage }
 
