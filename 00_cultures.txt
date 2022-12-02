@@ -8785,7 +8785,7 @@ assamese={
 }
 
 bengali={
-	color= rgb{ 155 135 110 }
+	color= hsv{ 0.79 0.37 0.36 }
 	religion = sunni
 	traits = { south_asian_heritage hindustani }
 	male_common_first_names={
@@ -9404,7 +9404,7 @@ sindi={
 }
 
 rajput={
-	color= rgb{ 110 110 105 }
+	color= hsv{ 0.24 0.16 0.90 }
 	religion = hindu
 	traits = { south_asian_heritage hindustani }
 	male_common_first_names={
@@ -9592,7 +9592,7 @@ tamil={
 }
 
 telegu={
-	color= rgb{ 45 55 105 }
+	color= hsv{ 0.58 0.55 0.59 }
 	religion = hindu
 	traits = { south_asian_heritage dravidian }
 	male_common_first_names={
