@@ -1,5 +1,5 @@
 ﻿north_german={
-	color= rgb{ 62 77 100 }
+	color= rgb{ 25 20 10 }
 	religion = protestant
 	traits = { german_speaking european_heritage }
 	male_common_first_names={
@@ -226,7 +226,7 @@
 }
 
 south_german={
-	color= hsv{ 0.50 0.43 0.45 }
+	color= rgb{ 180 140 100 }
 	religion = catholic
 	traits = { german_speaking european_heritage }
 	male_common_first_names={
@@ -425,7 +425,7 @@ south_german={
 }
 
 ashkenazi={
-	color= hsv{ 0.13 0.80 0.99 }
+	color= rgb{ 130 100 100 }
 	religion = jewish
 	traits = { jewish_group european_heritage } 
 	# could have German-speaking, but would make them not discriminated which would be very ahistorical
@@ -513,7 +513,7 @@ ashkenazi={
 }
 
 dutch={
-	color= hsv{ 0.07 0.49 0.93 }
+	color= rgb{ 230 130 50 }
 	religion = protestant
 	traits = { beneluxian_culture_group european_heritage }
 	male_common_first_names={
@@ -763,7 +763,7 @@ dutch={
 }
 
 flemish={
-	color= rgb{ 43 141 172 }
+	color= rgb{ 250 180 80 }
 	religion = catholic
 	traits = { beneluxian_culture_group european_heritage }
 	male_common_first_names={
@@ -1034,7 +1034,7 @@ flemish={
 }
 
 wallonian={
-	color= hsv{ 0.74 0.59 0.74 }
+	color= rgb{ 95 35 160 }
 	religion = catholic
 	traits = { beneluxian_culture_group francophone european_heritage }
 	male_common_first_names={
@@ -1515,7 +1515,7 @@ swiss={
 }
 
 swedish={
-	color= hsv{ 0.64 0.57 0.62 }
+	color= rgb{ 0 50 240 }
 	religion = protestant
 	traits = { scandinavian_culture_group european_heritage }
 
@@ -1632,7 +1632,7 @@ swedish={
 }
 
 danish={
-	color= hsv{ 0 0.51 0.86 }
+	color= rgb{ 220 40 40 }
 	religion = protestant
 	traits = { scandinavian_culture_group european_heritage }
 	male_common_first_names={
@@ -1779,7 +1779,7 @@ danish={
 }
 
 norwegian={
-	color= rgb{ 135 69 100 }
+	color= rgb{ 140 20 120 }
 	religion = protestant
 	traits = { scandinavian_culture_group european_heritage }
 	male_common_first_names={
@@ -1890,7 +1890,7 @@ norwegian={
 }
 
 icelandic={
-	color= hsv{ 0.74 0.46 0.58 }
+	color= rgb{ 80 20 150 }
 	religion = protestant
 	traits = { scandinavian_culture_group european_heritage }
 	male_common_first_names={
@@ -1963,7 +1963,7 @@ icelandic={
 }
 
 finnish={
-	color= hsv{ 0 0 0.86 }
+	color= rgb{ 220 220 220 }
 	religion = protestant
 	traits = { finnic scandinavian_culture_group european_heritage }
 	male_common_first_names={
@@ -2112,7 +2112,7 @@ finnish={
 }
 
 sami={
-	color= hsv{ 0.40 0.36 0.70 }
+	color= rgb{ 60 180 110 }
 	religion = protestant
 	traits = { finnic european_heritage }
 	# could have scandinavian_culture_group but that would make them ahistorically non-discriminated
@@ -2163,7 +2163,7 @@ sami={
 }
 
 british={ # "English" in localization
-	color= rgb{ 210 156 140 }
+	color= rgb{ 255 60 40 }
 	religion = protestant
 	traits = { anglophone european_heritage }
 	
@@ -2305,7 +2305,7 @@ british={ # "English" in localization
 }
 
 irish={
-	color= hsv{ 0.35 0.58 0.54 }
+	color= rgb{ 35 200 50 }
 	religion = catholic
 	traits = { celtic_people european_heritage }
 	# could have anglophone but would make them non-discriminated in Britain
@@ -2482,7 +2482,7 @@ irish={
 }
 
 australian={
-	color= hsv{ 0.61 0.50 0.68 }
+	color= rgb{ 65 135 105 }
 	religion = protestant
 	traits = { anglophone european_heritage }
 	male_common_first_names={
@@ -2606,7 +2606,7 @@ australian={
 }
 
 north_italian={
-	color= hsv{ 0.38 0.27 0.86 }
+	color= rgb{ 90 210 130 }
 	religion = catholic
 	traits = { italophone european_heritage }
 	
@@ -2762,7 +2762,7 @@ north_italian={
 }
 
 south_italian={
-	color= rgb{ 97 77 117 }
+	color= rgb{ 30 140 70 }
 	religion = catholic
 	traits = { italophone european_heritage }
 	
@@ -2951,7 +2951,7 @@ maltese={
 }
 
 basque={
-	color= hsv{ 0.12 0.56 0.86 }
+	color= rgb{ 230 110 60 }
 	religion = catholic
 	traits = { iberian_culture_group european_heritage }
 	male_common_first_names={
@@ -3068,7 +3068,7 @@ basque={
 }
 
 spanish={
-	color= hsv{ 0.16 0.56 0.86 }
+	color= rgb{ 220 220 30 }
 	religion = catholic
 	traits = { iberian_culture_group hispanophone european_heritage }
 	male_common_first_names={
@@ -3247,7 +3247,7 @@ spanish={
 }
 
 catalan={
-	color= hsv{ 0.07 0.56 0.86 }
+	color= rgb{ 225 110 35 }
 	religion = catholic
 	traits = { iberian_culture_group european_heritage }
 	male_common_first_names={
@@ -3394,7 +3394,7 @@ catalan={
 }
 
 portuguese={
-	color= hsv{ 0.21 0.56 0.86 }
+	color= rgb{ 160 220 30 }
 	religion = catholic
 	traits = { iberian_culture_group lusophone european_heritage }
 	male_common_first_names={
@@ -3598,7 +3598,7 @@ portuguese={
 }
 
 french={
-	color= rgb{ 76 118 155 }
+	color= rgb{ 30 35 180 }
 	religion = catholic
 	traits = { francophone european_heritage }
 	
@@ -3713,7 +3713,7 @@ french={
 	}
 }
 occitan={
-	color= rgb{ 164 193 223 }
+	color= rgb{ 125 125 200 }
 	religion = catholic
 	traits = { francophone european_heritage }
 
@@ -3782,7 +3782,7 @@ occitan={
 }
 
 breton={
-	color= hsv{ 0.16 0.39 0.95 }
+	color= rgb{ 125 125 135 }
 	religion = catholic
 	traits = { francophone celtic_people european_heritage }
 	male_common_first_names={
@@ -3875,7 +3875,7 @@ breton={
 }
 
 croat={
-	color= hsv{ 0.66 0.06 0.74 }
+	color= rgb{ 140 140 200 }
 	religion = catholic
 	traits = { jugoslav european_heritage }
 	male_common_first_names={
@@ -4012,7 +4012,7 @@ croat={
 }
 
 serb={
-	color= hsv{ 0.97 0.26 0.58 }
+	color= rgb{ 150 65 80 }
 	religion = orthodox
 	traits = { jugoslav european_heritage }
 	male_common_first_names={
@@ -4173,7 +4173,7 @@ serb={
 }
 
 bulgarian={
-	color= hsv{ 0.40 0.26 0.58 }
+	color= rgb{ 65 150 100 }
 	religion = orthodox
 	traits = { jugoslav european_heritage }
 	male_common_first_names={
@@ -4300,7 +4300,7 @@ bulgarian={
 }
 
 albanian={
-	color= hsv{ 0.10 0.60 0.44 }
+	color= rgb{ 150 30 0 }
 	religion = sunni
 	traits = { albanian_language european_heritage }
 	male_common_first_names={
@@ -4444,7 +4444,7 @@ albanian={
 }
 
 slovene={
-	color= rgb{ 159 174 96 }
+	color= rgb{ 0 90 130 }
 	religion = catholic
 	traits = { jugoslav european_heritage }
 	male_common_first_names={
@@ -4591,7 +4591,7 @@ slovene={
 }
 
 bosniak={
-	color= hsv{ 0.50 0.55 0.58 }
+	color= rgb{ 30 200 200 }
 	religion = sunni
 	traits = { jugoslav european_heritage }
 	male_common_first_names={
@@ -4721,7 +4721,7 @@ bosniak={
 }
 
 romanian={
-	color= hsv{ 0.12 0.41 0.54 }
+	color= rgb{ 255 210 40 }
 	religion = orthodox
 	traits = { romanian_culture_group european_heritage }
 	male_common_first_names={
@@ -4872,7 +4872,7 @@ romanian={
 }
 
 hungarian={
-	color= hsv{ 0.25 0.22 0.99 }
+	color= hsv{ 0.40 0.36 0.70 }
 	religion = catholic
 	traits = { hungarian_culture_group european_heritage }
 	male_common_first_names={
@@ -5014,7 +5014,7 @@ hungarian={
 }
 
 polish={
-	color= hsv{ 0 0.22 0.5 }
+	color= rgb{ 255 120 120 }
 	religion = catholic
 	traits = { west_slavic european_heritage }
 	male_common_first_names={
@@ -5166,7 +5166,7 @@ polish={
 }
 
 lithuanian={
-	color= hsv{ 0.42 0.48 0.83 }
+	color= rgb{ 0 135 55 }
 	religion = catholic
 	traits = { baltic_culture_group european_heritage }
 	male_common_first_names={
@@ -5316,7 +5316,7 @@ lithuanian={
 }
 
 czech={
-	color= hsv{ 0.66 0.32 0.99 }
+	color= rgb{ 120 120 255 }
 	religion = protestant
 	traits = { west_slavic european_heritage }
 	male_common_first_names={
@@ -5461,7 +5461,7 @@ czech={
 }
 
 slovak={
-	color= hsv{ 0.50 0.32 0.79 }
+	color= rgb{ 120 245 255 }
 	religion = catholic
 	traits = { west_slavic european_heritage }
 	male_common_first_names={
@@ -5601,7 +5601,7 @@ slovak={
 }
 
 russian={
-	color= hsv{ 0.35 0.40 0.37 }
+	color= rgb{ 0 100 20 }
 	religion = orthodox
 	traits = { east_slavic european_heritage }
 	male_common_first_names={
@@ -5711,7 +5711,7 @@ russian={
 }
 
 byelorussian={
-	color= hsv{ 0.37 0.28 0.54 }
+	color= rgb{ 100 140 110 }
 	religion = orthodox
 	traits = { east_slavic european_heritage }
 	male_common_first_names={
@@ -5804,7 +5804,7 @@ byelorussian={
 }
 
 ukrainian={
-	color= hsv{ 0.16 0.32 0.62 }
+	color= rgb{ 160 160 60 }
 	religion = orthodox
 	traits = { east_slavic european_heritage }
 	male_common_first_names={
@@ -5914,7 +5914,7 @@ ukrainian={
 }
 
 ugrian={
-	color= hsv{ 0.50 0.32 0.62 }
+	color= rgb{ 60 160 160 }
 	religion = animist
 	traits = { finnic european_heritage }
 	male_common_first_names={
@@ -5957,7 +5957,7 @@ ugrian={
 }
 
 latvian={
-	color= hsv{ 0.96 0.59 0.63 }
+	color= rgb{ 195 50 60 }
 	religion = protestant
 	traits = { baltic_culture_group european_heritage }
 	male_common_first_names={
@@ -6105,7 +6105,7 @@ latvian={
 }
 
 estonian={
-	color= hsv{ 0.72 0.25 0.28 }
+	color= rgb{ 0 115 235 }
 	religion = protestant
 	traits = { finnic baltic_culture_group european_heritage }
 	male_common_first_names={
@@ -6254,7 +6254,7 @@ estonian={
 }
 
 greek={
-	color= hsv{ 0.94 0.45 0.48 }
+	color= rgb{ 120 170 215 }
 	religion = orthodox
 	traits = { greek_culture european_heritage }
 	
@@ -6368,7 +6368,7 @@ greek={
 }
 
 georgian={
-	color= hsv{ 0.33 0.26 0.43 }
+	color= rgb{ 130 210 130 }
 	religion = orthodox
 	traits = { caucasus_group european_heritage }
 	male_common_first_names={
@@ -6510,7 +6510,7 @@ georgian={
 }
 
 armenian={
-	color= hsv{ 0.15 0.55 0.52 }
+	color= rgb{ 125 110 20 }
 	religion = oriental_orthodox
 	traits = { caucasus_group european_heritage }
 	male_common_first_names={
@@ -6648,7 +6648,7 @@ armenian={
 }
 
 sephardic={
-	color= hsv{ 0.20 0.53 0.23 }
+	color= rgb{ 50 60 10 }
 	religion = jewish
 	traits = { jewish_group european_heritage middle_eastern_heritage }
 	male_common_first_names={
@@ -6742,7 +6742,7 @@ sephardic={
 }
 
 turkish={
-	color= hsv{ 0.99 0.48 0.80 }
+	color= rgb{ 220 100 100 }
 	religion = sunni
 	traits = { turkic middle_eastern_heritage }
 	obsessions = {
@@ -6896,7 +6896,7 @@ turkish={
 }
 
 azerbaijani={
-	color= hsv{ 0.67 0.38 0.41 }
+	color= rgb{ 45 40 115 }
 	religion = shiite
 	traits = { caucasus_group turkic middle_eastern_heritage }
 	male_common_first_names={
@@ -6979,7 +6979,7 @@ azerbaijani={
 }
 
 north_caucasian={
-	color= hsv{ 0.17 0.26 0.99 }
+	color= rgb{ 255 255 160 }
 	religion = sunni
 	traits = { caucasus_group middle_eastern_heritage }
 	male_common_first_names={
@@ -7134,7 +7134,7 @@ maghrebi={
 }
 
 misri={
-	color= rgb{ 226 218 112 }
+	color= rgb{ 30 125 75 }
 	religion = sunni
 	obsessions = {
 		coffee
@@ -7341,7 +7341,7 @@ mashriqi={
 }
 
 bedouin={
-	color= rgb{ 154 164 89 }
+	color= rgb{ 40 165 75 }
 	religion = sunni
 	obsessions = {
 		coffee
@@ -7437,7 +7437,7 @@ bedouin={
 }
 
 berber={ # Amazigh
-	color= hsv{ 0.20 0.55 0.45 }
+	color= rgb{ 90 130 115 }
 	religion = sunni
 	traits = { arab_speaking middle_eastern_heritage }
 	male_common_first_names={
@@ -7481,7 +7481,7 @@ berber={ # Amazigh
 }
 
 persian={
-	color= hsv{ 0.1 0.43 0.56 }
+	color= rgb{ 105 65 45 }
 	religion = shiite
 	traits = { iranian_turanian_culture_group middle_eastern_heritage }
 	male_common_first_names={
@@ -7543,7 +7543,7 @@ persian={
 }
 
 uzbek={
-	color= hsv{ 0.01 0.46 0.59 }
+	color= rgb{ 150 70 55 }
 	religion = sunni
 	traits = { iranian_turanian_culture_group central_asian_heritage }
 	male_common_first_names={
@@ -8011,7 +8011,7 @@ turkmen={
 }
 
 kurdish={
-	color= hsv{ 0.59 0.51 0.79 }
+	color=rgb{ 230 170 40 }
 	religion = sunni
 	traits = { iranian_turanian_culture_group middle_eastern_heritage }
 	male_common_first_names={
@@ -8166,7 +8166,7 @@ mongol={
 }
 
 kalmyk={
-	color= rgb{ 250 182 3 }
+	color= rgb{ 0 160 220 }
 	religion = gelugpa
 	traits = { central_asian_heritage mongol_language }
 	male_common_first_names={
@@ -11961,7 +11961,7 @@ aimara={
 }
 
 amazonian={
-	color= hsv{ 0.38 0.58 0.59 }
+	color= hsv{ 0.77 0.22 0.50 }
 	religion = animist
 	traits = { indigenous_american_heritage south_american_group }
 	male_common_first_names={
@@ -12285,7 +12285,7 @@ tupinamba={
 }
 
 metis={
-	color= rgb{ 200 111 62 }
+	color= rgb{ 60 100 255 }
 	religion = catholic
 	traits = { indigenous_american_heritage francophone north_american_group }
 	male_common_first_names={
@@ -12621,7 +12621,7 @@ inuit={
 }
 
 cree={
-	color= hsv{ 0.30 0.39 0.95 }
+	color= rgb{ 165 255 75 }
 	religion = animist
 	traits = { indigenous_american_heritage north_american_group }
 	male_common_first_names={
@@ -12866,7 +12866,7 @@ nez_perce={ # Nez Perce
 	graphics = generic
 }
 siouan={
-	color= hsv{ 0.14 0.35 0.99 }
+	color= rgb{ 160 40 205 }
 	religion = animist
 	traits = { indigenous_american_heritage north_american_group }
 	male_common_first_names={
@@ -13143,7 +13143,7 @@ paiute={ # Ute and Shoshone
 	graphics = generic
 }
 hokan={
-	color= hsv{ 0.94 0.27 0.87 }
+	color= rgb{ 100 100 30 }
 	religion = animist
 	traits = { indigenous_american_heritage north_american_group }
 	male_common_first_names={
@@ -13241,7 +13241,7 @@ apache={
 	graphics = generic
 }
 oodham={
-	color= hsv{ 0.94 0.63 0.58 }
+	color= rgb{ 255 125 125 }
 	religion = animist
 	traits = { indigenous_american_heritage north_american_group }
 	male_common_first_names={
@@ -13558,7 +13558,7 @@ cariban={ # Hispanicized. Also includes some Garifuna and Warao names.
 }
 	
 yankee={
-	color= rgb{ 135 206 235 } # Sky Blue
+	color= rgb{ 65 65 135 } # Sky Blue
 	religion = protestant
 	traits = { anglophone european_heritage }
 	male_common_first_names = {
@@ -13683,7 +13683,7 @@ yankee={
 }
 
 dixie={
-	color=rgb{ 204 154 91 } # Butternut
+	color= rgb{ 154 155 155 } # Butternut
 	religion = protestant
 	traits = { anglophone european_heritage }
 	male_common_first_names = {
@@ -13801,7 +13801,7 @@ dixie={
 }
 
 mexican={
-	color=hsv{ 0.99 0.50 0.65 }
+	color= rgb{ 50 125 65 }
 	religion = catholic
 	traits = { hispanophone european_heritage }
 	male_common_first_names={
@@ -14012,7 +14012,7 @@ mexican={
 }
 
 central_american={
-	color= hsv{ 0.51 0.21 0.67 }
+	color= rgb{ 90 150 160 }
 	religion = catholic
 	traits = { hispanophone european_heritage }
 	male_common_first_names={
@@ -14146,7 +14146,7 @@ central_american={
 }
 
 caribeno={
-	color= hsv { 0.9 0.4 0.47 }
+	color= rgb{ 120 10 75 }
 	religion = catholic
 	traits = { hispanophone european_heritage }
 	male_common_first_names={
@@ -14694,7 +14694,7 @@ platinean={
 }
 
 brazilian={
-	color= hsv{ 0.50 0.53 0.40 }
+	color= hsv{ 0.38 0.58 0.59 }
 	religion = catholic
 	traits = { lusophone european_heritage }
 	male_common_first_names={
@@ -15119,7 +15119,7 @@ afro_caribeno={
 }
 
 afro_brazilian={
-	color= hsv{ 0.77 0.22 0.50 }
+	color= hsv{ 0.50 0.53 0.40 }
 	religion = catholic
 	traits = { african_heritage lusophone }
 	male_common_first_names={
@@ -19352,7 +19352,7 @@ kavango_bantu={ # Angola + Namibia
 }
 
 anglo_canadian={
-	color= hsv{ 0.22 0.22 0.45 }
+	color= rgb{ 250 170 255 }
 	religion = protestant
 	traits = { anglophone european_heritage }
 	male_common_first_names={
