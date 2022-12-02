@@ -399,7 +399,7 @@ galician={
 }
 
 malay={
-	color={ 85 78 89 }
+	color= rgb{ 115 120 120 }
 	religion = sunni
 	traits = { southeast_asian_heritage malay_culture }
 	male_common_first_names = {
@@ -454,7 +454,7 @@ malay={
 }
 
 bornean={
-	color={ 224 224 224 }
+	color={ 150 150 30 }
 	religion = sunni
 	traits = { southeast_asian_heritage malay_culture }
 	male_common_first_names = {
@@ -509,7 +509,7 @@ bornean={
 }
 
 sumatran={
-	color={ 146 115 115 }
+	color={ 255 85 110 }
 	religion = sunni
 	traits = { southeast_asian_heritage malay_culture }
 	male_common_first_names = {
