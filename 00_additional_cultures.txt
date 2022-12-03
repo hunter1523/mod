@@ -1,5 +1,5 @@
 ﻿welsh={
-	color= rgb{ 40 100 0 }
+	color= rgb{ 117 127 174 }
 	religion = protestant
 	traits = { anglophone celtic_people european_heritage }
 	
@@ -91,7 +91,7 @@
 }
 
 scottish={
-	color={ 0 100 190 }
+	color={ 72 79 127 }
 	religion = protestant
 	traits = { anglophone european_heritage }
 	
@@ -399,7 +399,7 @@ galician={
 }
 
 malay={
-	color= rgb{ 115 120 120 }
+	color={ 85 78 89 }
 	religion = sunni
 	traits = { southeast_asian_heritage malay_culture }
 	male_common_first_names = {
@@ -454,7 +454,7 @@ malay={
 }
 
 bornean={
-	color={ 150 150 30 }
+	color={ 224 224 224 }
 	religion = sunni
 	traits = { southeast_asian_heritage malay_culture }
 	male_common_first_names = {
@@ -509,7 +509,7 @@ bornean={
 }
 
 sumatran={
-	color={ 255 85 110 }
+	color={ 146 115 115 }
 	religion = sunni
 	traits = { southeast_asian_heritage malay_culture }
 	male_common_first_names = {
